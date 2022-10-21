@@ -1,6 +1,6 @@
 ## Hello, I'm Gabriel Mori.
 
-💻 - I'm currently work on **Push Swap**.
+💻 - I'm currently work on **Mini_Shell**.
 
 📚 - I'm currently learning **C**.
 
@@ -15,10 +15,6 @@
 </div>
 
 <h3 align="center">Welcome to my profile.</h3>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=issaomori&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
-<br/>
-
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=issaomori&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
