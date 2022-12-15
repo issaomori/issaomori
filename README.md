@@ -1,6 +1,6 @@
 ## Hello, I'm Gabriel Mori.
 
-💻 - I'm currently work on **Mini_Shell**.
+💻 - I'm currently work on **Philosophers**.
 
 📚 - I'm currently learning **C**.
 
