@@ -1,6 +1,6 @@
 ## Hello, I'm Gabriel Mori.
 
-💻 - I'm currently work on **Philosophers**.
+💻 - I'm currently work on **Cub3d**.
 
 📚 - I'm currently learning **C**.
 
