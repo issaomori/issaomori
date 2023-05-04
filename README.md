@@ -2,7 +2,7 @@
 
 💻 - I'm currently work on **Cub3d**.
 
-📚 - I'm currently learning **C**.
+📚 - I'm currently learning **C** and **Java**.
 
 📫 - How to reach me: gabrielmori16@gmail.com
 
