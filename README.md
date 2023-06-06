@@ -1,8 +1,8 @@
 ## Hello, I'm Gabriel Mori.
 
-💻 - I'm currently work on **Cub3d**.
+💻 - I'm currently work on **CPP Modules**.
 
-📚 - I'm currently learning **C** and **Java**.
+📚 - I'm currently learning **C** and **Python**.
 
 📫 - How to reach me: gabrielmori16@gmail.com
 
