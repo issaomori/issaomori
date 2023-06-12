@@ -2,7 +2,7 @@
 
 💻 - I'm currently work on **CPP Modules**.
 
-📚 - I'm currently learning **C** and **Python**.
+📚 - I'm currently learning **C++** and **Python**.
 
 📫 - How to reach me: gabrielmori16@gmail.com
 
