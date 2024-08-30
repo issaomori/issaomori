@@ -1,12 +1,8 @@
 ## Hello, I'm Gabriel Mori.
 
-💻 - I'm currently work on **Inception**.
-
-📚 - I'm currently learning **C++** and **Python**.
+📚 - I'm currently learning **AWS** and **Python**.
 
 📫 - How to reach me: gabrielmori16@gmail.com
-
-[![gissao-m's 42 stats](https://badge42.vercel.app/api/v2/cl88y7nbj00160gmdjsszlfyc/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 <div align="center">
   <a href="https://github.com/issaomori">
